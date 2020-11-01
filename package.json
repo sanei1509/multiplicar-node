@@ -1,0 +1,17 @@
+{
+  "name": "01-bases",
+  "version": "2.0.0",
+  "description": "Esta es una app de línea de comando",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.6",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Neira",
+  "license": "ISC"
+}
